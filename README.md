@@ -10,6 +10,10 @@ A robust, full-featured drawing application built with **Flutter**. This project
     <img src="assets/screenshots/doodle_1767996439002.png.png" width="30%" alt="Saved Image" />
 </p>
 
+## Documentation
+* [Software Requirements Specification (SRS)](assets/SRS.pdf) - Detailed documentation of functional and non-functional requirements.
+
+
 ## Features
 
 * **Advanced Drawing Engine:** Custom `Stroke` model supporting variable sizes, opacity, and color.
